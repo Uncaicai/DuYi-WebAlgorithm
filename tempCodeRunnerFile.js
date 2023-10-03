@@ -23,5 +23,5 @@ function f1(zhong, hou) {
 }
 
 var root = f1(zhong, hou);
-// console.log(root.left);
-console.log(root);
+console.log(root.left);
+console.log(root.right);
